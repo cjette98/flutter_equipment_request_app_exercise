@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874226750713",
+    "project_id": "flutter-exercise-monstarlab",
+    "storage_bucket": "flutter-exercise-monstarlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874226750713:android:b203e7e7df373958207e28",
+        "android_client_info": {
+          "package_name": "com.example.equipement_request_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgY222ssiOaHjdC4zsVCtSgwi5g43PVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874226750713:android:3b2e81e76e62505e207e28",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.equipment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgY222ssiOaHjdC4zsVCtSgwi5g43PVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
